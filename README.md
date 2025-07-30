@@ -11,7 +11,7 @@
 ## 🚀 **About Me**  
 I'm a **Full-Stack Developer** with expertise in building scalable web applications. Passionate about **clean code, performance optimization, and open-source contributions**.  
 
-- 🔭 Currently working on **[Your Current Project]**  
+- 🔭 Currently working on **[AI CLOUD ENGINEERING]**  
 - 🌱 Learning **Next.js, Rust, or any trending tech**  
 - 👯 Looking to collaborate on **open-source projects**  
 - 💬 Ask me about **React, Node.js, or System Design**  
