@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm [Iphile Akho Selana]  
 ### **Full-Stack Developer** | Open-Source Contributor | Tech Enthusiast  
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge)](https://yourportfolio.com)  
